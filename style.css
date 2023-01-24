@@ -8,7 +8,7 @@
 header{
         min-height: 100vh;
         width: 100%;
-        background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(/images/header.jpeg);
+        background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(images/header.jpeg);
         background-position: center;
         background-size: cover;
         position: relative;
@@ -215,7 +215,7 @@ h3{
         
 }
 .social-media-security-img{
-        background-image: url(/images/socialmediasecurity.jpg);
+        background-image: url(images/socialmediasecurity.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         width:400px;
@@ -278,7 +278,7 @@ h3{
         
 }
 .online-transactions-img{
-        background-image: url(/images/Onlinetransactions.jpg);
+        background-image: url(images/Onlinetransactions.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         width:400px;
@@ -345,7 +345,7 @@ h3{
         letter-spacing: -0.3px;
 }
 .information-img{
-        background-image: url(/images/onlinenews.jpg);
+        background-image: url(images/onlinenews.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         width:400px;
